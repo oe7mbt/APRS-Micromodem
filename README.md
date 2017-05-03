@@ -1,6 +1,6 @@
 # APRS-Micromodem
 
-Die Schaltung basiert auf der Entwicklung von Mark Qvist aus Dänemark, der auch die Firmware als Open-Source bereitstellt. Ebenso gibt es eine Libary für eigene Entwicklungen in der Arduino-Entwicklungsumgebung.
+Die Schaltung basiert auf der Entwicklung von Mark Qvist aus Dänemark (http://unsigned.io/projects/microaprs/), der auch die Firmware als Open-Source bereitstellt. Ebenso gibt es eine Libary für eigene Entwicklungen in der Arduino-Entwicklungsumgebung.
 
 Ich habe diese Schaltung für meine Zwecke angepasst und dafür eine Platine erstellt, die einerseits auf einem kostengünstigen Arduino Nano basiert und andererseits für Experimente leicht erweiterbar ist.
 
