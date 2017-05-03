@@ -1,0 +1,30 @@
+Anzahl	Bezeichner	Wert	Bauteil
+			
+2	R1,R6	1K	SMD 0805
+2	R2,R11	2K2	SMD 0805
+1	R3	3K9	SMD 0805
+1	R4	8K2	SMD 0805
+2	R5,R7	270	SMD 0805
+2	R8,R9	100K	SMD 0805
+1	R10	10K	SMD 0805
+			
+1	C1	4.7uF	Elko RM 2
+1	C2	100nF	SMD 0805
+1	C3	1uF	SMD 0805
+			
+1	Q1	2N7000	TO-92
+1	D1	LED	LED 3mm Grün
+1	D2	LED	LED 3mm Rot
+1	RV1	50K	Trimmer Piher PT10
+			
+			
+			
+2	R12,R13	4K7	SMD 0805
+			
+			
+1	P1	Radio	Pinleiste 1x4
+1	P2	Arduino 1-15	Pinleiste 1x15
+1	P3	Arduino 16-30	Pinleiste 1x15
+1	P5	PTT_HD	Pinleiste 1x2
+			
+1	U1	Arduino	Arduino Nano
