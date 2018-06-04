@@ -7,4 +7,3 @@ Ich habe diese Schaltung für meine Zwecke angepasst und dafür eine Platine ers
 Die Pins des Arduino sind (z.B für den Anschluß eines GPS-Modules oder eines Displays) auf einer Pinleiste direkt abgrefbar. Weiters gibt es auch eine I2C-Schnittstelle für die Kommunikation mit weiterer Hardware.
 
 73 de Marco, OE7MBT
-http://qth.at/oe7mbt/
